@@ -13,5 +13,5 @@
 
 
 
-![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+![Snake dark](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
